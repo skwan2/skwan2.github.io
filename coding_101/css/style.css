@@ -1,0 +1,32 @@
+body {
+background-color: pink;
+color: white;
+font-family: "Oswald", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-familys: "Lato", sans-serif;
+  border: 5px solid green;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 5px;
+  }
+
+p {
+    border-style:dotted;
+    border-width:initial;
+  text-align: center;
+}
+
+.instruments {
+  color: orange;
+}
+
+#firstList {
+  background-color: white;
+}
